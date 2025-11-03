@@ -1,5 +1,7 @@
 # Custom Alacritty Theme
 
+<img width="1328" height="681" alt="2025-11-03 18_48_19-deenulatr@DESKTOP-N24LT1H_ _mnt_c_Users_admin_Documents_Coding" src="https://github.com/user-attachments/assets/4d258504-a10e-4e56-88f2-7a2a331eeeef" />
+
 A custom Alacritty terminal configuration featuring the Ayu Mirage color scheme with additional personalized settings.
 
 ## Theme Preview
